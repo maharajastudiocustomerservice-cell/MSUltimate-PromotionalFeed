@@ -1,7 +1,7 @@
 {
     "campaign_guid": "maharaja_studio_catalog_v1",
-    "campaign_active": true,
-    "campaign_expires_utc": "2026-11-22T14:44:58Z",
+    "campaign_active": false,
+    "campaign_expires_utc": "",
     "announcements": [
         {
             "id": "welcome_announcement",
@@ -23,21 +23,9 @@
             "badge": "COMMUNITY",
             "banner_image_url": "",
             "cta_text": "Join Discord ↗",
-            "target_url": "https://discord.gg/maharajastudio",
+            "target_url": "https://discord.gg/GamF5bez3h",
             "has_timer": false,
             "timer_end_utc": ""
-        },
-        {
-            "id": "promo_e005",
-            "type": "sale",
-            "title": "Black Friday Sale On Full Collection",
-            "description": "Short engaging description of update, community event, or release.",
-            "badge": "Black Friday",
-            "banner_image_url": "",
-            "cta_text": "Learn More ↗",
-            "target_url": "https://assetstore.unity.com/packages/slug/347520",
-            "has_timer": true,
-            "timer_end_utc": "2026-11-20T14:44:58Z"
         }
     ],
     "ecosystem_addons": [
@@ -54,7 +42,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-component-designer",
+            "store_url": "https://assetstore.unity.com/packages/slug/419218",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-component-docs.html"
         },
         {
@@ -70,7 +58,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-hierarchy-designer",
+            "store_url": "https://assetstore.unity.com/packages/slug/380948",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-hierarchy-docs.html"
         },
         {
@@ -86,7 +74,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-animated-attributes",
+            "store_url": "https://assetstore.unity.com/packages/slug/419216",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-animated-docs.html"
         },
         {
@@ -102,7 +90,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-inspector-customizer",
+            "store_url": "https://assetstore.unity.com/packages/slug/419224",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-customizer-docs.html"
         },
         {
@@ -118,7 +106,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-validation-module",
+            "store_url": "https://assetstore.unity.com/packages/slug/419222",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-validation-docs.html"
         },
         {
@@ -134,7 +122,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/packages/slug/msultimate-toolbox-vol-1",
+            "store_url": "https://assetstore.unity.com/packages/slug/419226",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-toolbox-docs.html"
         },
         {
@@ -150,7 +138,7 @@
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/publishers/120284",
+            "store_url": "https://assetstore.unity.com/packages/slug/419212",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-core-docs.html"
         },
         {
@@ -159,30 +147,14 @@
             "category": "Bundle",
             "assembly_check": "",
             "type_check": "",
-            "tagline": "The flagship all-in-one suite: Core Pro + All 5 Addons, complete C# source code, and 6,000+ tests.",
+            "tagline": "The flagship all-in-one suite: Core Pro + All 6 Addons, complete C# source code, and 6,000+ tests.",
             "regular_price": "$199.99",
             "sale_price": "",
             "discount_percent": "",
             "is_on_sale": false,
             "sale_ends_utc": "",
             "icon_url": "",
-            "store_url": "https://assetstore.unity.com/publishers/120284",
-            "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-docs.html"
-        },
-        {
-            "id": "item_3e1f",
-            "name": "TestAddon1",
-            "category": "Addon",
-            "assembly_check": "MSUltimate.ComponentDesigner.Runtime",
-            "type_check": "MaharajaStudio.MSUltimate.ComponentDesigner.Runtime.ComponentAttribute",
-            "tagline": "Description of features and capabilities.",
-            "regular_price": "$20.99",
-            "sale_price": "$10.50",
-            "discount_percent": "50%",
-            "is_on_sale": true,
-            "sale_ends_utc": "2026-11-22T14:44:58Z",
-            "icon_url": "",
-            "store_url": "https://assetstore.unity.com/publishers/120284",
+            "store_url": "https://assetstore.unity.com/packages/slug/419228",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/msultimate-docs.html"
         }
     ],
@@ -243,10 +215,10 @@
             "type_check": "ObjectFinderPro",
             "tagline": "High-speed scene search and object locator with advanced filtering, component tracking, and multi-criteria queries.",
             "regular_price": "$19.99",
-            "sale_price": "Free",
-            "discount_percent": "100% OFF",
-            "is_on_sale": true,
-            "sale_ends_utc": "2026-11-16T14:44:58Z",
+            "sale_price": "",
+            "discount_percent": "",
+            "is_on_sale": false,
+            "sale_ends_utc": "",
             "icon_url": "",
             "store_url": "https://assetstore.unity.com/packages/tools/utilities/object-finder-pro-329676",
             "docs_url": "https://maharajastudiocustomerservice-cell.github.io/MaharajaStudioWeb/object-finder-pro-docs.html"
